@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main(void)
 {
-	printf("hello_world\nMy hobby is ");
+	printf("hello_world\n);
+	printf("I am in branc2nd");
 	return 0
 }
